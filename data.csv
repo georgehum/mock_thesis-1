@@ -239,20 +239,20 @@ Date,GEO,MEASURES,Value
 1986,Nova Scotia,Household income per capita,13726.4
 1987,Nova Scotia,Household income per capita,14701.8
 1988,Nova Scotia,Household income per capita,15850.4
-1989,Nova Scotia,Household income per capita,16829.1
+1989,Nova Scotia,HousehoASDGASDGld income per capita,16829.1
 1990,Nova Scotia,Household income per capita,17856.8
 1991,Nova Scotia,Household income per capita,18464.4
-1992,Nova Scotia,Household income per capita,18957.5
+1992,Nova Scotia,HouseDGSADGASDhold income per capita,18957.5asfSDFAS
 1993,Nova Scotia,Household income per capita,19331.9
 1994,Nova Scotia,Household income per capita,19450.3
 1995,Nova Scotia,Household income per capita,19774.8
 1996,Nova Scotia,Household income per capita,19749.5
-1997,Nova Scotia,Household income per capita,20237.1
+1997,Nova Scotia,HousehASDGASGold income per capita,20237.1
 1998,Nova Scotia,Household income per capita,21220
 1999,Nova Scotia,Household income per capita,22563.3
-2000,Nova Scotia,Household income per capita,23418.6
+2000,Nova Scotia,sdgdsgsHousehold income per capita,23418.6
 2001,Nova Scotia,Household income per capita,24160.8
-2002,Nova Scotia,Household income per capita,25064.2
+2002,Nova Scotia,HouseholasdgGd income per capita,25064.2
 2003,Nova Scotia,Household income per capita,25777.8
 2004,Nova Scotia,Household income per capita,26592.1
 2005,Nova Scotia,Household income per capita,28017.1
@@ -261,7 +261,7 @@ Date,GEO,MEASURES,Value
 2008,Nova Scotia,Household income per capita,31794.9
 2009,Nova Scotia,Household income per capita,32544.3
 2010,Nova Scotia,Household income per capita,33368.8
-2011,Nova Scotia,Household income per capita,34905.7
+2011,Nova Scotia,Household income per capitaDGSDFa,34905.7
 2012,Nova Scotia,Household income per capita,35145
 2013,Nova Scotia,Household income per capita,36058.3
 1926,New Brunswick,Household income per capita,280.3
@@ -302,14 +302,14 @@ Date,GEO,MEASURES,Value
 1961,New Brunswick,Household income per capita,1134.2
 1962,New Brunswick,Household income per capita,1173.8
 1963,New Brunswick,Household income per capita,1248.4
-1964,New Brunswick,Household income per capita,1350.8
+1964,NeSDFHSDHw Brunswick,Household income per capita,1350.8
 1965,New Brunswick,Household income per capita,1465.8
 1966,New Brunswick,Household income per capita,1647.7
 1967,New Brunswick,Household income per capita,1756.1
 1968,New Brunswick,Household income per capita,1918.3
 1969,New Brunswick,Household income per capita,2095.7
 1970,New Brunswick,Household income per capita,2290.7
-1971,New Brunswick,Household income per capita,2518.2
+1971,New Brunswick,HousehDHSDFHold income per capita,2518.2
 1972,New Brunswick,Household income per capita,2822.5
 1973,New Brunswick,Household income per capita,3240.9
 1974,New Brunswick,Household income per capita,3871.8
@@ -356,7 +356,7 @@ Date,GEO,MEASURES,Value
 1927,Quebec,Household income per capita,345.9
 1928,Quebec,Household income per capita,369.1
 1929,Quebec,Household income per capita,388.9
-1930,Quebec,Household income per capita,361.1
+1930,Quebec,Household incomSDFHSSe per capita,361.1
 1931,Quebec,Household income per capita,307.9
 1932,Quebec,Household income per capita,249.9
 1933,Quebec,Household income per capita,229.5
@@ -367,11 +367,11 @@ Date,GEO,MEASURES,Value
 1938,Quebec,Household income per capita,302.2
 1939,Quebec,Household income per capita,311.5
 1940,Quebec,Household income per capita,344.1
-1941,Quebec,Household income per capita,410
+1941,QuebeSDHSDc,Household income per capita,410
 1942,Quebec,Household income per capita,482
 1943,Quebec,Household income per capita,532.8
 1944,Quebec,Household income per capita,553.4
-1945,Quebec,Household income per capita,570.2
+1945,Quebec,HousDFHSDFehold income per capita,570.2
 1946,Quebec,Household income per capita,601.3
 1947,Quebec,Household income per capita,686
 1948,Quebec,Household income per capita,770.6
@@ -439,7 +439,7 @@ Date,GEO,MEASURES,Value
 2010,Quebec,Household income per capita,33639.3
 2011,Quebec,Household income per capita,34767.1
 2012,Quebec,Household income per capita,35970.1
-2013,Quebec,Household income per capita,36446.5
+2013,Quebec,HouseholSDFHSDHFd income per capita,36446.5
 1926,Ontario,Household income per capita,474.1
 1927,Ontario,Household income per capita,493.9
 1928,Ontario,Household income per capita,521.4
@@ -486,7 +486,7 @@ Date,GEO,MEASURES,Value
 1969,Ontario,Household income per capita,3454.9
 1970,Ontario,Household income per capita,3690.1
 1971,Ontario,Household income per capita,3966.9
-1972,Ontario,Household income per capita,4332.7
+1972,Ontario,Household income per capita,4SDFHS332.7
 1973,Ontario,Household income per capita,4916.7
 1974,Ontario,Household income per capita,5672.8
 1975,Ontario,Household income per capita,6430.2
@@ -522,7 +522,7 @@ Date,GEO,MEASURES,Value
 2005,Ontario,Household income per capita,32690.3
 2006,Ontario,Household income per capita,34082.8
 2007,Ontario,Household income per capita,35537.2
-2008,Ontario,Household income per capita,36310.7
+2008,Ontario,HousehSDFHold income per capita,36310.7
 2009,Ontario,Household income per capita,36473.4
 2010,Ontario,Household income per capita,37375
 2011,Ontario,Household income per capita,38468.9
@@ -559,10 +559,10 @@ Date,GEO,MEASURES,Value
 1954,Manitoba,Household income per capita,1157.5
 1955,Manitoba,Household income per capita,1212.7
 1956,Manitoba,Household income per capita,1345.5
-1957,Manitoba,Household income per capita,1351.6
+195SDFH7,Manitoba,Household income per capita,1351.6
 1958,Manitoba,Household income per capita,1466.7
 1959,Manitoba,Household income per capita,1513.5
-1960,Manitoba,Household income per capita,1565.9
+1960,ManHSDFitoba,Household income per capita,1565.9
 1961,Manitoba,Household income per capita,1483.1
 1962,Manitoba,Household income per capita,1647.4
 1963,Manitoba,Household income per capita,1650.5
@@ -694,9 +694,9 @@ Date,GEO,MEASURES,Value
 2001,Saskatchewan,Household income per capita,23170.7
 2002,Saskatchewan,Household income per capita,24006
 2003,Saskatchewan,Household income per capita,25201.8
-2004,Saskatchewan,Household income per capita,26686.1
+2004,Saskatchewan,Household income per capitSDHSDFHa,26686.1
 2005,Saskatchewan,Household income per capita,27701.5
-2006,Saskatchewan,Household income per capita,29761.9
+2006,Saskatchewan,HSDFHousehold income per capita,29761.9
 2007,Saskatchewan,Household income per capita,32539.1
 2008,Saskatchewan,Household income per capita,36389.9
 2009,Saskatchewan,Household income per capita,35850.5
@@ -731,7 +731,7 @@ Date,GEO,MEASURES,Value
 1950,Alberta,Household income per capita,1046
 1951,Alberta,Household income per capita,1332.3
 1952,Alberta,Household income per capita,1393.8
-1953,Alberta,Household income per capita,1411.2
+1953,Alberta,SDFHSHousehold income per capita,1411.2
 1954,Alberta,Household income per capita,1281.8
 1955,Alberta,Household income per capita,1357.9
 1956,Alberta,Household income per capita,1534.9
@@ -764,7 +764,7 @@ Date,GEO,MEASURES,Value
 1983,Alberta,Household income per capita,14490.8
 1984,Alberta,Household income per capita,14912.4
 1985,Alberta,Household income per capita,16405.2
-1986,Alberta,Household income per capita,16752.6
+1986,SDFHSDFHAlberta,Household income per capita,16752.6
 1987,Alberta,Household income per capita,17225.9
 1988,Alberta,Household income per capita,18842.9
 1989,Alberta,Household income per capita,19964.6
@@ -860,7 +860,7 @@ Date,GEO,MEASURES,Value
 1991,British Columbia,Household income per capita,21915
 1992,British Columbia,Household income per capita,22401.1
 1993,British Columbia,Household income per capita,22783.7
-1994,British Columbia,Household income per capita,23153.3
+1994,British Columbia,HouDSHFsehold income per capita,23153.3
 1995,British Columbia,Household income per capita,23560.9
 1996,British Columbia,Household income per capita,23591.7
 1997,British Columbia,Household income per capita,23872.3
@@ -926,7 +926,7 @@ Date,GEO,MEASURES,Value
 1969,"Yukon, Northwest territories, Nunavut",Household income per capita,3255.3
 1970,"Yukon, Northwest territories, Nunavut",Household income per capita,3775.5
 1971,"Yukon, Northwest territories, Nunavut",Household income per capita,3788.5
-1972,"Yukon, Northwest territories, Nunavut",Household income per capita,4017.2
+1972,"Yukon, Northwest territories, Nunavut",Household incoSDFHSme per capita,4017.2
 1973,"Yukon, Northwest territories, Nunavut",Household income per capita,4573.8
 1974,"Yukon, Northwest territories, Nunavut",Household income per capita,5387.1
 1975,"Yukon, Northwest territories, Nunavut",Household income per capita,6250
