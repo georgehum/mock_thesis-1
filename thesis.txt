@@ -10,4 +10,14 @@ ghq
 helerlo. Here is a trivial change.Do you know that birds fly?Making a change!
 qrg
 
+<<<<<<< HEAD
 fwoijqgoahgok
+=======
+hello. Here is a trivial change.
+
+Adding another line...
+
+
+George!!! Here are you!!!
+I'm not here right now, I don't understand the intricacies of GITHUB...
+>>>>>>> 3abea19c31b75a891b3d0ca995e0a1210b53c56e
